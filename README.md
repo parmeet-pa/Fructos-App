@@ -1,6 +1,4 @@
-OBJECTIVES 
-
-WHAT WILL YOU LEARN?
+Learning Objective
 
 How to create an Onboarding Screen with Page Tab View.
 
