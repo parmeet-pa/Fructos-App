@@ -20,4 +20,4 @@ Learn how to use the new Disclosure View.
 
 How to display views dynamically in a List View with a loop practice.
 
-App screen images are aslo added as Screen1 and other screen as countinues.
+App screen images are aslo added as Screen1,2 an so on.
